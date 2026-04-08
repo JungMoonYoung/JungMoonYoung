@@ -62,6 +62,8 @@ Dashboards: https://bit.ly/3PNvBYt
 | Stack | LangChain, FAISS, ko-sroberta, Gemini API, RandomForest, Streamlit |
 | Impact | 비용 vs 품질 트레이드오프를 코사인 유사도 80% 임계값으로 분기 처리 |
 | Key Point | 4종 ML 모델 비교 후 정확도보다 해석성을 기준으로 RandomForest 채택 |
+| Link | https://github.com/JungMoonYoung/career-assistant |
+
 
 ---
 
