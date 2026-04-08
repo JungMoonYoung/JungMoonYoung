@@ -7,10 +7,10 @@
 - **액션으로 이어지는 해석** — R² 0.04를 양보하더라도 Monotone Constraints로 가격 역전을 막아 **매입 담당자가 즉시 사용 가능한 모델**을 만들고, 4사분면 분류로 "어느 자치구에 먼저" 같은 정책 우선순위를 도출합니다.
 - **End-to-End 엔지니어링** — 크롤링(Selenium) → 전처리 → ML(XGBoost·RandomForest) → RAG(LangChain·FAISS) → Streamlit 실서비스 배포까지 **5개 프로젝트를 독자적으로 운영**했습니다.
 
-EMAIL: kobing7122@gmail.com  
-TEL: 010-7122-3794  
-Portfolio: https://www.notion.so/252404a59bef802b8693d40f30b48d82  
-Dashboards: https://bit.ly/3PNvBYt
+  EMAIL: kobing7122@gmail.com  
+  TEL: 010-7122-3794  
+  Portfolio: https://www.notion.so/252404a59bef802b8693d40f30b48d82  
+  Dashboards: https://bit.ly/3PNvBYt
 
 
 ---
